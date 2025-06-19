@@ -1,6 +1,6 @@
 # 🧑‍💼 Painel Administrativo com Autenticação (React + Firebase + Tailwind)
 
-Este é um painel administrativo moderno desenvolvido com **React**, **Tailwind CSS** e **Firebase Authentication**, focado em boas práticas de desenvolvimento front-end, responsividade, usabilidade e apresentação profissional para portfólio.
+Este é um painel administrativo moderno desenvolvido com **React**, **Tailwind CSS** e **Firebase Authentication**, focado em boas práticas de desenvolvimento front-end, responsividade, usabilidade e apresentação profissional.
 
 ---
 
